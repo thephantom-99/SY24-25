@@ -21,7 +21,7 @@ namespace MineSweeper2._0
             {
                 btnGrid[i] = (Button)Controls["button" + (i)];
                 tileGrid[i] = new tile(btnGrid[i]);
-                btnGrid[i].BackColor = Color.Green;
+                btnGrid[i].BackColor = Color.Lavender;
             }
         }
         private void button_Click(object sender, EventArgs e)
@@ -43,7 +43,7 @@ namespace MineSweeper2._0
         private void button0_MouseDown(object sender, MouseEventArgs e)
         {
             Button b = sender as Button;
-            b.BackColor = Color.Red;
+            b.BackColor = Color.Purple;
         }
     }
 }
