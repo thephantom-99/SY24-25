@@ -43,7 +43,7 @@ namespace MineSweeper2._0
         private void button0_MouseDown(object sender, MouseEventArgs e)
         {
             Button b = sender as Button;
-            b.BackColor = Color.Purple;
+            b.BackColor = Color.Green;
         }
     }
 }
