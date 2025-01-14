@@ -1,0 +1,10 @@
+C:\Users\jehar782\source\repos\BinaryConverter\BinaryConverter\bin\Debug\BinaryConverter.exe.config
+C:\Users\jehar782\source\repos\BinaryConverter\BinaryConverter\bin\Debug\BinaryConverter.exe
+C:\Users\jehar782\source\repos\BinaryConverter\BinaryConverter\bin\Debug\BinaryConverter.pdb
+C:\Users\jehar782\source\repos\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.csproj.AssemblyReference.cache
+C:\Users\jehar782\source\repos\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.Form1.resources
+C:\Users\jehar782\source\repos\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.Properties.Resources.resources
+C:\Users\jehar782\source\repos\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.csproj.GenerateResource.cache
+C:\Users\jehar782\source\repos\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.csproj.CoreCompileInputs.cache
+C:\Users\jehar782\source\repos\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.exe
+C:\Users\jehar782\source\repos\BinaryConverter\BinaryConverter\obj\Debug\BinaryConverter.pdb
